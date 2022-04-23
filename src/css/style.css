@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.promo {
+    height: 800px;
+    padding-top: 39px;
+    padding-bottom: 62px;
+    background: url('../img/bg/main_bg.png') center center/cover no-repeat;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1140px;
+
+}
+
+.logo .logo_img {
+    display: block;
+    margin: 0 auto;
+
+}
+
+.logo .logo_text {
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: 14px;
+}
+
+.description {
+    height: 607px;
+    background: #EFEFEF;
+}
+
+.title{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 41px;
+line-height: 41px;
+text-align: center;
+text-transform: uppercase;
+text-align: center;
+color: #F9BF3B;
+}
